@@ -1,0 +1,8 @@
+Trait,Just,Assertive,Bad-Tempered,Nervous,Carefree,Kind,Clever
+Just,2,1.5,0.5,1.5,1,1.75,0.75
+Assertive,1.5,2,0.5,0.5,1,1,1.25
+Bad-Tempered,0.5,0.5,2,0.5,0.5,0.25,1.5
+Nervous,1.5,0.5,0.5,2,1.25,2,0.75
+Carefree,1,1,0.5,1.25,2,1.5,0.5
+Kind,1.75,1,0.25,2,1.5,2,0.5
+Clever,0.75,1.25,1.5,0.75,0.5,0.5,2

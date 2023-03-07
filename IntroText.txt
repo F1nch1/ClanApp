@@ -1,0 +1,10 @@
+﻿Welcome to the Clan Creator, a game in which you take control of a leader and attempt to form a true clan from the
+rag-tag cats of the forest. 
+
+You've grown tired of your old life, and have decided to set out into the forest. What is it that brought you to this
+point? Where did you come from?
+
+[0]: I am a loner, having lived a life of solitude, moving between the wilds and the human lands as I so choose.
+[1]: I am a housepet, growing up in the lap of luxury and never having felt the sting of hunger.
+[2]: I am a stray. Once a housepet, my owners tossed me to the streets, leavng me to  scrounge for scraps.
+[3]: I am a rouge, bullying others for what little food they have and fighting to defend my scant meals.
